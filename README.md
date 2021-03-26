@@ -2,7 +2,38 @@
 All League Of Legends Items and champions assets
 
 RIOT GAMES Free to use
-Items assets format: 64x64
+
+**All_Skins_Assets/All_Skins_Loading_Assets**
+Assets dimensions: 308x560px
+Assets extensions: PNG
+
+**All_Skins_Assets/All_Skins_SplashArts_Assets**
+Assets dimensions: 1215x717px
+Assets extensions: PNG
+
+**All_Skins_Assets/All_Skins_Square_Assets**
+Assets dimensions: 380x380px
+Assets extensions: PNG
+
+**Champions_Assets**
 Champions assets format: 120x120
+Assets extensions: PNG
+
+**Items_Assets**
+Items assets format: 64x64
 assets extensions: PNG
-Retrieved with League Of Legends API during 11.5 Patch
+
+**Missions_Assets**
+Items assets format: Mostly 256x25px
+assets extensions: PNG
+
+**Runes_Assets**
+Items assets format: 64x64
+assets extensions: PNG
+
+**Summoners_Spells_Assets**
+Items assets format: 64x64
+assets extensions: PNG
+
+
+Retrieved with League Of Legends API during 11.6 Patch
