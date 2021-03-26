@@ -3,7 +3,7 @@ All League Of Legends Items and champions assets
 
 RIOT GAMES Free to use
 
-**All_Skins_Assets/All_Skins_Loading_Assets**
+\n**All_Skins_Assets/All_Skins_Loading_Assets**
 Assets dimensions: 308x560px
 Assets extensions: PNG
 
