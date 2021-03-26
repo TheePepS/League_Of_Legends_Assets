@@ -35,6 +35,6 @@ assets extensions: PNG
 Items assets format: 64x64
 assets extensions: PNG
 
-
+You can get .rar files **Compressed_Archive**
 
 Retrieved with League Of Legends API during 11.6 Patch
