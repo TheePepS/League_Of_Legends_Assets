@@ -39,6 +39,15 @@ assets extensions: PNG
 Items assets format: 64x64
 assets extensions: PNG
 
+**Ranks_Icons_Assets**
+Ranks Icons assets format: 512x512px
+assets extensions: PNG
+
+**Pings_Assets**
+Pings assets format: 128x128px
+assets extensions: PNG
+
+
 You can get .rar files **Compressed_Archive**
 
 Retrieved with League Of Legends API during 11.6 Patch
