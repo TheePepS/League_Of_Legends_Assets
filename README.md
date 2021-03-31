@@ -23,6 +23,10 @@ Assets extensions: PNG
 Items assets format: 64x64
 assets extensions: PNG
 
+**Loading_Screen_Borders_Rank_Assets**
+Rank Borders assets format: 462x840px
+assets extensions: PNG
+
 **Missions_Assets**
 Items assets format: Mostly 256x25px
 assets extensions: PNG
