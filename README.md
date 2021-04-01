@@ -50,4 +50,5 @@ assets extensions: PNG
 
 You can get .rar files **Compressed_Archive**
 
-Retrieved with League Of Legends API during 11.6 Patch
+Assets etrieved with League Of Legends API during 11.7 Patch
+Compressed Archives updated during 11.6 Patch
